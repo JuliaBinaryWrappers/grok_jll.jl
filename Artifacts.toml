@@ -1,0 +1,40 @@
+[[grok]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "848aca3578d08ac51a1fbec1f739438a270cfdcd"
+libc = "glibc"
+os = "linux"
+
+    [[grok.download]]
+    sha256 = "430a3df4b4e20cc058eb5403fee4b093d59b1fe0bcf0c6c7fa12ee209519943d"
+    url = "https://github.com/JuliaBinaryWrappers/grok_jll.jl/releases/download/grok-v20.3.2+0/grok.v20.3.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[grok]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "527920ace70cf4ba1451a2050a6968dd0b953a66"
+libc = "glibc"
+os = "linux"
+
+    [[grok.download]]
+    sha256 = "4edd1d1dc2583464518796bafb1cbd943bfe87ce772d2298d036897ac8d96f43"
+    url = "https://github.com/JuliaBinaryWrappers/grok_jll.jl/releases/download/grok-v20.3.2+0/grok.v20.3.2.i686-linux-gnu-cxx11.tar.gz"
+[[grok]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "742f55f16ddd22db1d62c5a8861f3e160d88babd"
+libc = "glibc"
+os = "linux"
+
+    [[grok.download]]
+    sha256 = "1012ef08c08127bf80be757521aa4b75be44471e9d855ba71b56f86785109a3c"
+    url = "https://github.com/JuliaBinaryWrappers/grok_jll.jl/releases/download/grok-v20.3.2+0/grok.v20.3.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[grok]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4cc1eecd52b7570a9c28cf180e2163ca96a65662"
+libc = "glibc"
+os = "linux"
+
+    [[grok.download]]
+    sha256 = "c40c6e321aef499d059211e0fa835e0265ea242d0b703ca43098964d88d256a1"
+    url = "https://github.com/JuliaBinaryWrappers/grok_jll.jl/releases/download/grok-v20.3.2+0/grok.v20.3.2.x86_64-linux-gnu-cxx11.tar.gz"
