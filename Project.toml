@@ -1,6 +1,6 @@
 name = "grok_jll"
 uuid = "0cd81ddb-c824-5a44-8fef-56db1943f23c"
-version = "20.3.3+0"
+version = "20.3.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
